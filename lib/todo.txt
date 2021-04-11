@@ -1,0 +1,17 @@
+
+final improvements done
+- modularized the code
+- font issue resolved
+- rahul's images were not in assets folder, organized those still assets not loading
+
+points to discuss
+- how to access male/female , upon which change the avatar in homepage
+- assets/images arent working in rahuls code
+- in book_appointment_form, http request was not working,
+- also http request in fetching clinic address didnt work in doctor_info_page
+- make upcoming medicine non-static
+
+- for doctor's data
+  add biography section, make form to fill biography during registration
+  add bachelors section ignore if already done\
+  
